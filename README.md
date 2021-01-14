@@ -1,4 +1,2 @@
 # hello-world
-Noch ein Versuch
-
-Hello Hello! Trying to learn how to handle Github. 
+jetzt klapps so langsam!!
